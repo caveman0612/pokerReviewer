@@ -8,7 +8,6 @@ import shutil
 # from imageMod import ImageMod
 
 class ImageMod:
-
     croppedDict = {
         # "holeCard": [509, 170, 36, 59], 
         "player_title": [497, 151, 100, 100],

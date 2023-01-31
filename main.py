@@ -18,7 +18,7 @@ imageLoc = os.path.join(parent_dir, "images")
 # 38600 change situation 
 # 12200 not working???? 
 # 29180
-controller.loopThroughFrames(5000, 40000)
+# controller.loopThroughFrames(5000, 40000)
 
 
 
